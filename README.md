@@ -1,4 +1,5 @@
-# nnFramework  🚀
+# Addressing Machine Learning Problems in the
+Non-Negative Orthant  🚀
 
 
 This repository contains an implementation of the manuscript "*[Addressing Machine Learning Problems in the
